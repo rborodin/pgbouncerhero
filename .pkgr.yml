@@ -1,0 +1,4 @@
+default_dependencies: false
+targets:
+  centos-8:
+  
