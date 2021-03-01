@@ -1,6 +1,4 @@
-# PgBouncerHero-Demo
-
-This is the demo app running on https://pgbouncerhero-demo.herokuapp.com demonstrating the usage of [pgbouncerhero](https://github.com/kwent/pgbouncerhero).
+# PgBouncerHero
 
 ## Installation
 
@@ -32,7 +30,7 @@ production:
 
 ## Heroku
 
-This demo app is using following buildpacks:
+This app is using following buildpacks:
 
 ```bash
 # You need to fork your own to set the allow your database username to access pgbouncer database.
