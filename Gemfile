@@ -56,3 +56,5 @@ gem 'pgbouncerhero'
 gem 'semantic-ui-sass'
 gem 'haml-rails'
 gem 'pg'
+
+gem 'nokogiri', '= 1.11.0'

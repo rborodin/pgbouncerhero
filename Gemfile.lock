@@ -100,7 +100,7 @@ GEM
     mini_portile2 (2.5.0)
     minitest (5.14.4)
     nio4r (2.5.5)
-    nokogiri (1.11.1)
+    nokogiri (1.11.0)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     pg (1.2.3)
@@ -202,6 +202,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+  nokogiri (= 1.11.0)
   pg
   pgbouncerhero
   rails (~> 5.2.0)
